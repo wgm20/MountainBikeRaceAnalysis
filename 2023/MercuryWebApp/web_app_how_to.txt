@@ -1,7 +1,0 @@
-Mercury is an open source python package you can pip install in python > 3.11.
-
-It allows you to make an interactive web app out of a jupyter notebook https://runmercury.com/tutorials/web-app-python-jupyter-notebook/
-
-You can run this in the cloud from: https://cloud.runmercury.com/ so anyone can access it.
-
-Note: you can't view it from safari on an iphone. Worked from my windows PC in chrome. 

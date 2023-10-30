@@ -1,0 +1,24 @@
+open cmd window:
+
+navigate to the installed python you want to base venv on:
+
+cd C:\Users\mulho\AppData\Local\Programs\Python\Python36
+
+make venv:
+
+python -m venv C:\venvs\TestVenv_3
+
+
+
+
+open cygwyn:
+
+activate venv:
+
+cd C:/venvs/TestVenv_3/scripts
+$ source activate
+
+(I got warnings about line endings and had to convert activate file to unix line endings in beyond compare)
+
+
+then pip install everything you need. 
