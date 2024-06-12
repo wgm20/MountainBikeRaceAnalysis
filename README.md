@@ -1,5 +1,5 @@
 # Mountainbike race analysis
-Analysis of ArdRock Enduro and other UK mountain bike races.  
+Analysis of some UK mountain bike races.  
 
 Includes code for a mercury-hosted web app. 
 
